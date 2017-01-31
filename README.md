@@ -15,6 +15,7 @@ Keep it simple!
 - Getting starterd: [python.org/about/gettingstarted](https://www.python.org/about/gettingstarted/)
 - Basics: [pythonforbeginners.com](http://www.pythonforbeginners.com/)
 - Learn Python the Hard Way (book and web site): [learnpythonthehardway.org](https://learnpythonthehardway.org/book/)
+- Python course: [codecademy.com/learn/python](https://www.codecademy.com/learn/python)
 - Documentation: [docs.python.org](https://docs.python.org/3/)
 - Questions and answers: [stackoverflow.com](http://stackoverflow.com/questions/tagged/python)
 
