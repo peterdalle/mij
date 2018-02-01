@@ -2,13 +2,26 @@
 
 This page contain Python code and Jupyter Notebooks for the course JU2602 Data journalism and visualization, part of the [master programme in investigative journalism at JMG, Sweden](http://utbildning.gu.se/education/courses-and-programmes/program_detail/?programid=S2JOU).
 
-## Assignment
+## Exercises
 
-Modify `Weather news robot.ipynb` to scrape a source of your liking (more instructions are in the file).
+Exercise | Goal
+:---------------- | :---------------------------------------
+[Exercise 1: Variables](/Exercises/1-variables.md) | Create, change and combine variables.
+[Exercise 2: Strings](/Exercises/2-strings.md) | Manipulate text strings.
+[Exercise 3: If-statements](/Exercises/3-if-statements.md) | Control program flow with if, elif and else.
+[Exercise 4: For-loops](/Exercises/4-for.md) | Use for-loops to control how lists are presented on the screen.
+[Exercise 5: Functions (def)](/Exercises/5-def.md) | Create functions that take input, change the input, and then return some new value.
+[Exercise 6: Error handling](/Exercises/6-errors.md) | Understand some common error messages, and how to solve them.
 
-Keep it simple!
+## Projects
 
-## Python resources
+...
+
+## Contact
+
+Contact [Peter M. Dahlgren](http://jmg.gu.se/om-institutionen/personal?userId=xdpete&languageId=100001) if you have any questions.
+
+## Learn more Python
 
 **Learn Python**
 
@@ -35,6 +48,12 @@ Keep it simple!
 - List: [An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!](https://github.com/caesar0301/awesome-public-datasets)
 - List: [A awesome list of (large-scale) public datasets on the Internet. (On-going collection)](https://github.com/vnijs/awesome-public-datasets)
 
-## Contact
+## Program to write code
 
-Contact [Peter M. Dahlgren](http://jmg.gu.se/om-institutionen/personal?userId=xdpete&languageId=100001) if you have any questions.
+Jupyter Notebook is great for interactive coding. But you can also write code in a regular program for your computer, such as:
+
+* [Visual Studio Code](https://code.visualstudio.com/) and the extension [Python](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python)
+* [Sublime Text](https://www.sublimetext.com/)
+* [Atom](https://atom.io/)
+
+All programs are free to use and works with Mac, Windows and Linux. Use Visual Studio Code if you can't decide.
