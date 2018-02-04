@@ -15,8 +15,8 @@ Overview of what we'll do, apart from the lectures:
 1. Install [Anaconda](https://www.continuum.io/downloads/) (choose Python version 3+) that contains Python and Jupyter Notebooks.
 2. Get familiar with Jupyter Notebooks.
 3. Do the exercises.
-4. Learn how to control programs with `ìf`-statements and `for`-lopos.
-5. Write fuctions (`def`) that group the code into reusable blocks.
+4. Learn to control program flow with `ìf`-statements and `for`-loops.
+5. Write fuctions with `def` that group code into reusable blocks.
 6. End with some bigger web scraping projects: e.g., news robot.
 
 ## Exercises
