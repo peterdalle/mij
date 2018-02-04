@@ -8,12 +8,20 @@ At the bottom you'll find [Supplementary studies](#supplementary-studies) and [A
 
 ## Do this
 
-1. Create a function named `isprogrammer`
+1. Look at this code. What value will it return? Think about it, then run the code to see if you were right.
+      ```py
+      def calculate_value(x, y):
+         new_value = x * y
+         return(new_value)
+
+      calculate_value(10, 5)
+      ```
+2. Create a function named `isprogrammer`
       - the function should take an input variable named `interests`
       - the function should check if `interests` contain `programming` or `python`
       - the function should return `True` if `interests` contain these values, otherwise the function should return `False`
-2. Create the variable `myinterests` as a list with five of your interests
-3. Then write an if-statements that will show a message on the screen if you are a programmer, or a different message if you are not a programmer
+3. Create the variable `myinterests` as a list with five of your interests
+4. Then write an if-statements that will show a message on the screen if you are a programmer, or a different message if you are not a programmer
 
 ## References
 
@@ -68,6 +76,8 @@ Read [Functions](https://www.learnpython.org/en/Functions).
 Read also [Modules and Packages](https://www.learnpython.org/en/Modules_and_Packages) about how you use functions that other people have created (these are often called *libraries*).
 
 ## Answers
+
+The function `calculate_value(10, 5)` will return `50`.
 
 Create function:
 ```py
