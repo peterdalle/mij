@@ -2,7 +2,11 @@
 
 This page contain Python code and Jupyter Notebooks for the course JU2602 Data journalism and visualization, part of the [master programme in investigative journalism at JMG, Sweden](http://utbildning.gu.se/education/courses-and-programmes/program_detail/?programid=S2JOU).
 
-**Please bring your computer!**
+The goal is to learn the basics of programming in general and Python in particular. No previous programming knowledge is required. The goal is to build a news robot that can scrape the web and automatically write a news article.
+
+***Please bring your computer!***
+
+Contact [Peter M. Dahlgren](http://jmg.gu.se/om-institutionen/personal?userId=xdpete&languageId=100001) if you have any questions.
 
 ## Overview
 
@@ -31,10 +35,21 @@ Exercise | Goal
 Project | Description
 :---------------- | :---------------------------------------
 [Model Scraper](/Projects/model-scraper.ipynb) | Student project that scrape body measurements from women models.
+[Web Scraping Examples](/2%20Web%20scraping%20and%20APIs/Web%20scraping%20and%20Exercise.ipynb) | Example code for scraping Internet Movie Database, Washington Post and Wikipedia.
+[BeautifulSoup Examples](/3%20News%20robot/Scraping%20examples.ipynb) | Example code to help you scrape HTML from web pages using BeautifulSoup. 
+[Earthquake News Robot](/3%20News%20robot/Earthquake%20news%20robot.ipynb) | News robot that writes a news article based on (fictitious) earthquake data.
+[Weather News Robot](/3%20News%20robot/Weather%20news%20robot.ipynb) | News robot that scrapes tomorrows weather and writes a short text complaining about how cold it is.
 
-## Contact
+## Jupyter Notebooks - keyboard shortcuts
 
-Contact [Peter M. Dahlgren](http://jmg.gu.se/om-institutionen/personal?userId=xdpete&languageId=100001) if you have any questions.
+- **`Ctrl+Enter`** = run cell
+- **`ESC`** = exit out of a cell
+- **`Tab`** = autocomplete
+- **`a`** = insert cell above
+- **`b`** = insert cell below
+- **`dd`** = delete cell
+
+Jupyter Notebook files are saved on your computer, in your [home directory](https://en.wikipedia.org/wiki/Home_directory). Read more at [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/).
 
 ## Learn more about Python
 
