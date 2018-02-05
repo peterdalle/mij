@@ -38,6 +38,7 @@ Project | Description
 [Model Scraper](/Projects/model-scraper.ipynb) | Student project that scrape body measurements from women models.
 [Facebook API](/Projects/facebook-api.ipynb) | Get Facebook status messages from any Facebook page.
 [BeautifulSoup Examples](/3%20News%20robot/Scraping%20examples.ipynb) | Example code to help you scrape HTML from web pages using BeautifulSoup. 
+[Movie Review News Robot](/Projects/newsrobot-moviereview.ipynb) | News robot that writes a news article based on movie data.
 [Earthquake News Robot](/3%20News%20robot/Earthquake%20news%20robot.ipynb) | News robot that writes a news article based on (fictitious) earthquake data.
 [Weather News Robot](/3%20News%20robot/Weather%20news%20robot.ipynb) | News robot that scrapes tomorrows weather and writes a short text complaining about how cold it is.
 
