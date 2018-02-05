@@ -56,7 +56,7 @@ A comparison such as `age == 18` is called an *expression*. An expression always
 Comparison | Description | Example
 ---------- | -------------- | --------------------------
 `==` | Is equal to | `age == 15`
-`! =` | Not equal to | `age != 15`
+`!=` | Not equal to | `age != 15`
 `>` | Larger than | `age > 15`
 `<` | Less than | `age < 15`
 `<=` | Equal to or less than | `age <= 15`
