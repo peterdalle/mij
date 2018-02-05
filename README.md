@@ -34,8 +34,8 @@ Exercise | Goal
 
 Project | Description
 :---------------- | :---------------------------------------
-[Model Scraper](/Projects/model-scraper.ipynb) | Student project that scrape body measurements from women models.
 [Web Scraping Examples](/2%20Web%20scraping%20and%20APIs/Web%20scraping%20and%20Exercise.ipynb) | Example code for scraping Internet Movie Database, Washington Post and Wikipedia.
+[Model Scraper](/Projects/model-scraper.ipynb) | Student project that scrape body measurements from women models.
 [BeautifulSoup Examples](/3%20News%20robot/Scraping%20examples.ipynb) | Example code to help you scrape HTML from web pages using BeautifulSoup. 
 [Earthquake News Robot](/3%20News%20robot/Earthquake%20news%20robot.ipynb) | News robot that writes a news article based on (fictitious) earthquake data.
 [Weather News Robot](/3%20News%20robot/Weather%20news%20robot.ipynb) | News robot that scrapes tomorrows weather and writes a short text complaining about how cold it is.
@@ -49,7 +49,7 @@ Project | Description
 - **`b`** = insert cell below
 - **`dd`** = delete cell
 
-Jupyter Notebook files are saved on your computer, in your [home directory](https://en.wikipedia.org/wiki/Home_directory). Read more at [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/).
+Jupyter Notebook files are saved on your computer in your home directory, typically in in your Users folder (i.e., `/Users/<username>`). Read more at [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/).
 
 ## Learn more about Python
 
