@@ -75,7 +75,7 @@ interests = ["python", "icehockey", "monopoly", "x-games", "clubbing seals"]
 
 Go through list of and look for "python" or "programming":
 ```py
-for hobby in interets:
+for hobby in interests:
 	if hobby == "python" or hobby == "programming":
 		print("Yay! You're a code nerd!")
 	else:
