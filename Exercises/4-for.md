@@ -57,7 +57,7 @@ But if you put `.lower()` on all varaibles everything is lower cased and `"test"
 ```py
 interests = ["PYTHON", "ICEHOCKEY", "MONOPOLY"]
 
-for hobby in interets:
+for hobby in interests:
 	if hobby.lower() == "python":
 		print("Yay! You like Python!")
 	else:
