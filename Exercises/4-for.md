@@ -45,7 +45,7 @@ We can also get values from the list by putting the index directly into the for-
 ```py
 num_interests = len(interests)
 
-for i in num_interests:
+for i in range(num_interests):
 	print(interests[i])
 ```
 
