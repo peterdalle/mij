@@ -51,3 +51,8 @@ Jupyter Notebook is great for interactive coding. But you can also write code in
 * [Atom](https://atom.io/)
 
 All programs are free to use and works with Mac, Windows and Linux. Use Visual Studio Code if you can't decide.
+
+# Practical examples for journalists
+
+- [Search-Script-Scrape: 101 webscraping and research tasks for the data journalist](https://github.com/stanfordjournalism/search-script-scrape): Exercise sets part of the Stanford Computational Journalism Lab.
+- [Swe-scrapers](https://github.com/miroli/swe-scrapers): collection of web scrapers and API wrappers for Swedish sites.
