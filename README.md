@@ -51,46 +51,9 @@ Project | Description
 - **`b`** = insert cell below
 - **`dd`** = delete cell
 
-Jupyter Notebook files are saved on your computer in your home directory, typically in in your Users folder (i.e., `/Users/<username>`). Read more at [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/).
+Jupyter Notebook files are saved on your computer, typically in your Users folder (i.e., `/Users/<username>`). Read more at [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/).
 
-## Learn more about Python
+## Learn more
 
-### Learn Python
-
-There are plenty of guides online that will teach you programming in Python. Codecademy is interactive, which means that you can write code directly in your browser and see if it works as you go along with the lectures.
-
-- Getting starterd: [python.org/about/gettingstarted](https://www.python.org/about/gettingstarted/)
-- Basics: [pythonforbeginners.com](http://www.pythonforbeginners.com/)
-- Python course: [codecademy.com/learn/python](https://www.codecademy.com/learn/python)
-- Learn Python the Hard Way (book and web site): [learnpythonthehardway.org](https://learnpythonthehardway.org/book/)
-
-### Get help
-
-- Questions and answers: [stackoverflow.com](http://stackoverflow.com/questions/tagged/python)
-- Documentation: [docs.python.org](https://docs.python.org/3/)
-
-### Web scraping
-
-- How-to: [First web scraper: A step-by-step guide to writing a web scraper with Python](https://first-web-scraper.readthedocs.io/en/latest/)
-- How-to: [Python Web Scraping Tutorial using BeautifulSoup](https://www.dataquest.io/blog/web-scraping-tutorial-python/)
-- How-to: [Chapter 11 – Web Scraping](https://automatetheboringstuff.com/chapter11/)
-
-### News robot
-
-- News article: [The First News Report on the L.A. Earthquake Was Written by a Robot](http://www.slate.com/blogs/future_tense/2014/03/17/quakebot_los_angeles_times_robot_journalist_writes_article_on_la_earthquake.html)
-- Python code: [RoboWriter](https://github.com/jensfinnas/robot-writer), a more complex news robot in Python
-
-### Find datasets online
-
-- [An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!](https://github.com/caesar0301/awesome-public-datasets)
-- [A awesome list of (large-scale) public datasets on the Internet. (On-going collection)](https://github.com/vnijs/awesome-public-datasets)
-
-## Program to write code
-
-Jupyter Notebook is great for interactive coding. But you can also write code in a regular program for your computer, such as:
-
-* [Visual Studio Code](https://code.visualstudio.com/) and the extension [Python](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python)
-* [Sublime Text](https://www.sublimetext.com/)
-* [Atom](https://atom.io/)
-
-All programs are free to use and works with Mac, Windows and Linux. Use Visual Studio Code if you can't decide.
+- In the [References](/References/) directory you'll find example code snippets
+- Read [Learn more Python](/learn-more-python.md) to find documentation, help and other Python resources
