@@ -15,7 +15,7 @@ Overview of what we'll do, apart from the lectures:
 1. Install [Anaconda](https://www.continuum.io/downloads/) (choose Python version 3+) that contains Python and Jupyter Notebooks.
 2. Get familiar with Jupyter Notebooks.
 3. Do the exercises.
-4. Learn to control program flow with `ìf`-statements and `for`-loops.
+4. Learn to control program flow with `if`-statements and `for`-loops.
 5. Write fuctions with `def` that group code into reusable blocks.
 6. End with some bigger web scraping projects: e.g., news robot.
 
@@ -34,7 +34,7 @@ Exercise | Goal
 
 Project | Description
 :---------------- | :---------------------------------------
-[Scrape Court Rulings from InfoCuria](/2%20Web%20scraping%20and%20APIs/info-curia-sraper.ipynb) | Scrape most recent judgments and opinions from InfoCuria.
+[Scrape Court Rulings from InfoCuria](/Projects/info-curia-sraper.ipynb) | Scrape most recent judgments and opinions from InfoCuria.
 [Web Scraping Examples](/2%20Web%20scraping%20and%20APIs/Web%20scraping%20and%20Exercise.ipynb) | Example code for scraping Internet Movie Database, Washington Post and Wikipedia.
 [Model Scraper](/Projects/model-scraper.ipynb) | Student project that scrape body measurements from women models.
 [Facebook API](/Projects/facebook-api.ipynb) | Get Facebook status messages from any Facebook page.
