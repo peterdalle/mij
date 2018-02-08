@@ -34,6 +34,7 @@ Exercise | Goal
 
 Project | Description
 :---------------- | :---------------------------------------
+[Scrape Court Rulings from InfoCuria](/2%20Web%20scraping%20and%20APIs/info-curia-sraper.ipynb) | Scrape most recent judgments and opinions from InfoCuria.
 [Web Scraping Examples](/2%20Web%20scraping%20and%20APIs/Web%20scraping%20and%20Exercise.ipynb) | Example code for scraping Internet Movie Database, Washington Post and Wikipedia.
 [Model Scraper](/Projects/model-scraper.ipynb) | Student project that scrape body measurements from women models.
 [Facebook API](/Projects/facebook-api.ipynb) | Get Facebook status messages from any Facebook page.
