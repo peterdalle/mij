@@ -5,7 +5,7 @@
 System | Directory | Alternative directory
 :---- | :---------------------  | :--------------------- 
 Mac | `~/Library/Jupyter` |
-Windows | `C:\Users\Peter\AppData\Roaming\jupyter` |  `C:\ProgramData\jupyter`
+Windows | `C:\Users\<User>\AppData\Roaming\jupyter` |  `C:\ProgramData\jupyter`
 Linux | `~/.local/share/jupyter/` | `/usr/share/jupyter`
 
 Source: [Jupyter Directories](https://jupyter.readthedocs.io/en/latest/projects/jupyter-directories.html#data-files)
