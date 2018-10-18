@@ -10,6 +10,7 @@ There are plenty of guides online that will teach you programming in Python. Don
 - Basics: [pythonforbeginners.com](http://www.pythonforbeginners.com/)
 - Python courses: [Coursera](https://www.coursera.org/learn/python) and [Codecademy](https://www.codecademy.com/learn/python) (note that Codecademy uses Python version 2)
 - Learn Python the Hard Way (book and web site): [learnpythonthehardway.org](https://learnpythonthehardway.org/book/)
+- Learn Python - Full Course for Beginners video: [youtube.com/watch?v=rfscVS0vtbw](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
 ## Get help
 
@@ -23,7 +24,7 @@ Do you get an error or have any problems using Python? Stack Overflow is a good 
 How do you find a specific library or a piece of code that you can use? Here's some tips:
 
 - At [awesome-python.com](https://awesome-python.com/) you'll find a list of libraries, software and resources
-- Use GitHub to exlore software projects: <https://github.com/explore>
+- Use GitHub to explore software projects: <https://github.com/explore>
 - Try googling something like [`web scraping python`](https://www.google.com/search?q=web+scraping+python)
 
 ## Web scraping tutorials
