@@ -1,5 +1,9 @@
 # Common questions about Python and Jupyter Notebooks
 
+## How do I install Anaconda on Chromebook?
+
+Follow instructions from https://wsvincent.com/install-python3-chromebook/
+
 ## Where are notebooks located on my computer?
 
 System | Directory | Alternative directory
